@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week_tab.xml",
+        "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\layout\\week_tab.xml"
+    },
+    {
+        "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_tab.xml",
+        "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\layout\\home_tab.xml"
+    },
+    {
+        "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row_day.xml",
+        "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\layout\\list_row_day.xml"
+    },
+    {
+        "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

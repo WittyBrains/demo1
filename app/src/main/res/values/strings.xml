@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   	<!--  Global -->
+    <string name="app_name">Weather Forecast</string>
+    <string name="log_tag">WeatherForecast</string>
+    <string name="tab_today">Today</string>
+    <string name="tab_week">Week</string>
+    <string name="fetching_data">Fetching weather data</string>
+    <string name="network_error">Network error</string>
+    <string name="alert_search_title">Search</string>
+    <string name="alert_search_message">Write a town to display his weather</string>
+    <string name="alert_search_validate">OK</string>
+    <string name="alert_search_cancel">Cancel</string>
+    <string name="no_location">Cancel</string>
+    
+    <!--  Home activity -->
+    <string name="label_temperature">Temperature</string>
+    <string name="label_city">City</string>
+    <string name="label_date">Date</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_humidity_value">0%</string>
+    <string name="label_wind">Wind</string>
+    <string name="label_wind_value">0.0km/h</string>
+    <string name="btn_changecity">Change city</string>
+    <string name="image_weather_description">Weather image</string>
+    
+</resources>
