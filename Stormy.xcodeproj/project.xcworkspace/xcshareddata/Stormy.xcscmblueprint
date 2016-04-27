@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "931215E14565965D25B2D2E0F536154A9711BB4E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "931215E14565965D25B2D2E0F536154A9711BB4E" : 0,
+    "805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8F71BEF0-9F0F-48C1-960A-0E04D9A3BB72",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "931215E14565965D25B2D2E0F536154A9711BB4E" : "StormyStarter-Xcode7\/",
+    "805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA" : "Stormy"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Stormy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Stormy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/treehouse\/iOSCourse_Stormy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:LuizGadao\/Swift2WeatherApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "931215E14565965D25B2D2E0F536154A9711BB4E"
+    }
+  ]
+}

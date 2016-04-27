@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F71BEF0-9F0F-48C1-960A-0E04D9A3BB72</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Stormy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA</key>
+		<string>https://github.com/treehouse/iOSCourse_Stormy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Stormy.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/treehouse/iOSCourse_Stormy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>805D7DC93CD8ECFD40C6AAB7D22E3481EAD497BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Stormy</string>
+		</dict>
+	</array>
+</dict>
+</plist>

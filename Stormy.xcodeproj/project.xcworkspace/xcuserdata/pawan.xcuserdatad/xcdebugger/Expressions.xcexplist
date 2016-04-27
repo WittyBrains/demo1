@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "WeeklyTableTableViewController.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:WeeklyTableTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newDate">
+            </PersistentString>
+            <PersistentString
+               value = "dateString">
+            </PersistentString>
+            <PersistentString
+               value = "calendar">
+            </PersistentString>
+            <PersistentString
+               value = "tenDaysfromNow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeeklyTableTableViewController.(latitude() -&gt; ()).(closure #1):WeeklyTableTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loc.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeeklyTableTableViewController.init(coder : NSCoder) -&gt; WeeklyTableTableViewController?:WeeklyTableTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Weather.Constants.locValue.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
