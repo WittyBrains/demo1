@@ -38,9 +38,9 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int home_tab=0x7f030001;
+        public static final int today_weather_tab =0x7f030001;
         public static final int list_row_day=0x7f030002;
-        public static final int week_tab=0x7f030003;
+        public static final int week_weather_tab =0x7f030003;
     }
     public static final class menu {
         public static final int activity_main=0x7f070000;

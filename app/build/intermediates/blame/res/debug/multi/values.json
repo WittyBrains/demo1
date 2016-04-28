@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "F:\\Android Repository\\android\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 105,
+                        "startOffset": 108,
                         "endColumn": 53,
-                        "endOffset": 154
+                        "endOffset": 157
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 159,
+                        "startOffset": 163,
                         "endColumn": 53,
-                        "endOffset": 208
+                        "endOffset": 212
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 213
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 213,
+                        "startOffset": 218,
                         "endColumn": 54,
-                        "endOffset": 263
+                        "endOffset": 268
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 266
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
-                        "startOffset": 52,
+                        "startOffset": 54,
                         "endColumn": 49,
-                        "endOffset": 100
+                        "endOffset": 102
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 321
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 581,
+                        "startOffset": 594,
                         "endColumn": 54,
-                        "endOffset": 631
+                        "endOffset": 644
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 406
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 443,
+                        "startOffset": 454,
                         "endColumn": 84,
-                        "endOffset": 523
+                        "endOffset": 534
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 460
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 389,
+                        "startOffset": 399,
                         "endColumn": 53,
-                        "endOffset": 438
+                        "endOffset": 448
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 528,
+                        "startOffset": 540,
                         "endColumn": 52,
-                        "endOffset": 576
+                        "endOffset": 588
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 567
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 77,
+                        "startOffset": 81,
                         "endColumn": 53,
-                        "endOffset": 126
+                        "endOffset": 130
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 622
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1063,
+                        "startOffset": 1087,
                         "endColumn": 54,
-                        "endOffset": 1113
+                        "endOffset": 1137
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 686
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 269,
+                        "startOffset": 277,
                         "endColumn": 63,
-                        "endOffset": 328
+                        "endOffset": 336
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 754
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1118,
+                        "startOffset": 1143,
                         "endColumn": 67,
-                        "endOffset": 1181
+                        "endOffset": 1206
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 798
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 774,
+                        "startOffset": 792,
                         "endColumn": 43,
-                        "endOffset": 813
+                        "endOffset": 831
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 842
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 818,
+                        "startOffset": 837,
                         "endColumn": 43,
-                        "endOffset": 857
+                        "endOffset": 876
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 862,
+                        "startOffset": 882,
                         "endColumn": 51,
-                        "endOffset": 909
+                        "endOffset": 929
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 946
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 914,
+                        "startOffset": 935,
                         "endColumn": 51,
-                        "endOffset": 961
+                        "endOffset": 982
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1004
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 716,
+                        "startOffset": 733,
                         "endColumn": 57,
-                        "endOffset": 769
+                        "endOffset": 786
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1048
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 966,
+                        "startOffset": 988,
                         "endColumn": 43,
-                        "endOffset": 1005
+                        "endOffset": 1027
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1101
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1010,
+                        "startOffset": 1033,
                         "endColumn": 52,
-                        "endOffset": 1058
+                        "endOffset": 1081
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1153
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 131,
+                        "startOffset": 136,
                         "endColumn": 51,
-                        "endOffset": 178
+                        "endOffset": 183
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 1209
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 333,
+                        "startOffset": 342,
                         "endColumn": 55,
-                        "endOffset": 384
+                        "endOffset": 393
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 1256
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 636,
+                        "startOffset": 650,
                         "endColumn": 46,
-                        "endOffset": 678
+                        "endOffset": 692
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 1300
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 183,
+                        "startOffset": 189,
                         "endColumn": 43,
-                        "endOffset": 222
+                        "endOffset": 228
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 1342
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 227,
+                        "startOffset": 234,
                         "endColumn": 41,
-                        "endOffset": 264
+                        "endOffset": 271
                     }
                 }
             },
@@ -468,14 +468,14 @@
                     "endOffset": 1633
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 186,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 472
+                        "endOffset": 484
                     }
                 }
             },
@@ -489,14 +489,14 @@
                     "endOffset": 1793
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 510,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 665
+                        "endOffset": 682
                     }
                 }
             },
@@ -510,14 +510,14 @@
                     "endOffset": 1939
                 },
                 "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 671,
+                        "startOffset": 690,
                         "endLine": 21,
                         "endColumn": 12,
-                        "endOffset": 812
+                        "endOffset": 833
                     }
                 }
             }

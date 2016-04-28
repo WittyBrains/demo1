@@ -3,18 +3,18 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 16
     buildToolsVersion "23.0.3"
-
     defaultConfig {
         applicationId "com.tlenclos.weatherforecast"
-        minSdkVersion 14
+        minSdkVersion 16
         targetSdkVersion 16
     }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
+    }
+    productFlavors {
     }
 }
 

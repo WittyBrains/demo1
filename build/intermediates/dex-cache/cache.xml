@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wittybrains\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Android Repository\android\demo1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0f6707345c3a837a8254ceb58432ae6dc93e2a9d.jar" />
+    </item>
+    <item
+        jar="F:\Android Repository\android\demo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cdda1145003c929bafb6cd0e72b4f05b876238f">
+        <dex dex="F:\Android Repository\android\demo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_08129bd47ad648021dc874530b91ee677938cd15.jar" />
+    </item>
+    <item
+        jar="F:\Android Repository\android\demo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fdc96375634b9ae43e1e9617dcd9f5acaa50d31">
+        <dex dex="F:\Android Repository\android\demo1\app\build\intermediates\pre-dexed\debug\instant-run_297081d5822e12176d369779c7458a2c42c25c07.jar" />
+    </item>
+
+</items>
