@@ -2,7 +2,8 @@
 
 This App is used for weather forecating.
 
-1) I have created a MainActivity that contains two tabs on ActionBar 
+1) I have created a MainActivity that contains two tabs on ActionBar.
+
     - HomeInfoTab : It has diaplyed current weather including cityname,image,temperature,change city button.
     - WeekInfoTab : It has displayed weather of week including current day. It has contained listView.
     
