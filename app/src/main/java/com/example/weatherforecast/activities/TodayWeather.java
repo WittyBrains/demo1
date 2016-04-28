@@ -23,7 +23,6 @@ import android.widget.Toast;
 
 import com.example.weatherforecast.Utilities.DownloadImageTask;
 import com.example.weatherforecast.Utilities.WeatherWebservice;
-import com.example.weatherforecast.beans.Weather;
 import com.tlenclos.weatherforecast.R;
 
 import java.text.SimpleDateFormat;
@@ -32,6 +31,8 @@ import java.util.Locale;
 
 public class TodayWeather extends Fragment implements TabListener, LocationListener {
     private static final String TAG = "TodayWeather";
+    public static Weather dayWeather;
+    public static Location location;
     private Fragment mFragment;
     private LocationManager locationManager;
     private TextView city;
@@ -43,8 +44,6 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
     private TextView time;
     private Button changeCityButton;
     private ImageView icon;
-    public static Weather dayWeather;
-    public static Location location;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -163,10 +162,6 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
         }
     }
 
-    public interface FragmentCallback {
-        public void onTaskDone(ArrayList<Weather> result);
-    }
-
     public void onTabSelected(Tab tab, FragmentTransaction ft) {
         mFragment = this;
         ft.add(android.R.id.content, mFragment);
@@ -195,6 +190,10 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
     @Override
     public void onProviderDisabled(String s) {
 
+    }
+
+    public interface FragmentCallback {
+        public void onTaskDone(ArrayList<Weather> result);
     }
 
 }

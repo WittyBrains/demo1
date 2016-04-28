@@ -4,7 +4,7 @@ import android.location.Location;
 import android.os.AsyncTask;
 
 import com.example.weatherforecast.activities.TodayWeather.FragmentCallback;
-import com.example.weatherforecast.beans.Weather;
+import com.example.weatherforecast.activities.Weather;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
@@ -18,6 +18,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 
 public class WeatherWebservice extends AsyncTask<Void, Void, ArrayList<Weather>> {
+    protected Location location;
     private FragmentCallback mFragmentCallback;
     private String iconUrl = "http://openweathermap.org/img/w/";
     private String apiUrlFormat = "http://api.openweathermap.org/data/2.1/find/city?&lat=%f&lon=%f&cnt=1" +
@@ -27,7 +28,6 @@ public class WeatherWebservice extends AsyncTask<Void, Void, ArrayList<Weather>>
     private String apiSearchCityFormat = "http://api.openweathermap.org/data/2.5/weather?q=%s&" +
             "APPID=5d2eef1e303470228dcf653b4f989499";
     private String apiUrl;
-    protected Location location;
     private boolean todayWeather;
     private String city;
 

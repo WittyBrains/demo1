@@ -1,4 +1,4 @@
-package com.example.weatherforecast.beans;
+package com.example.weatherforecast.activities;
 
 import java.io.Serializable;
 import java.util.Date;
