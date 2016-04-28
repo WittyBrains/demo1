@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 import com.example.weatherforecast.adapters.CustomListAdapter;
 import com.example.weatherforecast.activities.HomeInfoTab.FragmentCallback;
+import com.example.weatherforecast.beans.UserInfo;
 import com.tlenclos.weatherforecast.R;
 import com.example.weatherforecast.Utilities.WeatherWebservice;
 import com.example.weatherforecast.beans.Weather;
@@ -36,7 +37,7 @@ public class WeekInfoTab extends Fragment implements TabListener {
         daysListView.setAdapter(adapter);
         
         // Get weather data
-        if (com.tlenclos.weatherforecast.models.UserInfo.getInstance().location != null) {
+        if (UserInfo.getInstance().location != null) {
     		if (((MainActivity) this.getActivity()).isOnline()) {
     			Toast.makeText(this.getActivity().getApplicationContext(), getResources().getString(R.string.fetching_data), Toast.LENGTH_SHORT).show();
     			
@@ -47,7 +48,7 @@ public class WeekInfoTab extends Fragment implements TabListener {
     	                weathers.addAll(result);
     	                adapter.notifyDataSetChanged();
     	            }
-    	        }, com.tlenclos.weatherforecast.models.UserInfo.getInstance().location, false, null);
+    	        }, UserInfo.getInstance().location, false, null);
     			weatherWS.execute();
     		} else {
     			Toast.makeText(this.getActivity().getApplicationContext(), getResources().getString(R.string.network_error), Toast.LENGTH_SHORT).show();

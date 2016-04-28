@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Client_Practics\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Client_Practics\\demo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

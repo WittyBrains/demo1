@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
         "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Client_Practics\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "D:\\Client_Practics\\demo1\\app\\src\\main\\res\\menu\\activity_main.xml"
     }
 ]
