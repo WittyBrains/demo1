@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MVVMWeatherTableViewController.(locationManager(CLLocationManager, didUpdateLocations : [CLLocation]) -&gt; ()).(closure #1):MVVMWeatherTableTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "globalinit_33_AA6FDF4E252F47ACE6018F1144940F0E_func1:MVVMWeatherTableViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Weather.Constants.zip">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MVVMWeatherTableViewModel.disposeBag.getter:MVVMWeatherTableViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Weather.Constants.zip">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Weather.init(jsonObject : AnyObject) -&gt; Weather:Weather.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "forecast.append(itemForecast)">
+            </PersistentString>
+            <PersistentString
+               value = "item[&quot;temp&quot;][0]">
+            </PersistentString>
+            <PersistentString
+               value = "item[&quot;main&quot;][&quot;temp&quot;].double">
+            </PersistentString>
+            <PersistentString
+               value = "item[&quot;main&quot;][&quot;temp&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "self.cityName">
+            </PersistentString>
+            <PersistentString
+               value = "temp">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;list&quot;].array">
+            </PersistentString>
+            <PersistentString
+               value = "item[&quot;temp&quot;][&quot;night&quot;].double">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MVVMWeatherTableViewController.viewDidLoad() -&gt; ():MVVMWeatherTableTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Weather.Constants.manager">
+            </PersistentString>
+            <PersistentString
+               value = "cityDegreesLabel">
+            </PersistentString>
+            <PersistentString
+               value = "Weather.Constants.manager!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MVVMWeatherTableViewController.locationManager(CLLocationManager, didUpdateLocations : [CLLocation]) -&gt; ():MVVMWeatherTableTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locValue.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ForecastTableViewCell.updateCell() -&gt; ():ForecastTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "temp">
+            </PersistentString>
+            <PersistentString
+               value = "forecastToShow.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MVVMWeatherTableViewModel.searchText.didset:MVVMWeatherTableViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MVVMWeatherTableViewModel.Constants.urlExtension.unsafeMutableAddressor:MVVMWeatherTableViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Weather.Constants.placenark.addressDictionary![&quot;ZIP&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "Weather.Constants.zip">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
