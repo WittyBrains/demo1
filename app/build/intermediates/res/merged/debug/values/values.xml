@@ -9,7 +9,7 @@
     <string name="alert_search_title">Search</string>
     <string name="alert_search_validate">OK</string>
     <string name="app_name">Weather Forecast</string>
-    <string name="btn_changecity">Change city</string>
+    <string name="btn_changescity">Change City</string>
     <string name="fetching_data">Fetching weather data</string>
     <string name="image_weather_description">Weather image</string>
     <string name="label_city">City</string>

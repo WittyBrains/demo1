@@ -7,10 +7,13 @@ import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.text.format.Time;
 import android.util.Log;
 import android.view.View;
@@ -65,6 +68,7 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
         icon = (ImageView) getActivity().findViewById(R.id.icon);
         description = (TextView) getActivity().findViewById(R.id.description);
         time = (TextView) getActivity().findViewById(R.id.time);
+
         Time currentTime = new Time();
         currentTime.setToNow();
         time.setText(String.format("%02d:%02d", currentTime.hour, currentTime.minute));
@@ -73,9 +77,15 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
 
             @Override
             public void onClick(View v) {
-                askToChangeCity();
+                Intent intent = new Intent(getActivity(), ChangeCity.class);
+                startActivity(intent);
+
             }
         });
+        SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
+        String tempcity = sharedPreferences.getString("editbox", null);
+        gettingFreshWeatherData(null, true, tempcity);
+
     }
 
     @Override
@@ -91,6 +101,7 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
         Log.v(TAG, "Recovering data from instanceState");
+
         if (dayWeather != null) {
             updateUI(dayWeather);
         }
@@ -120,28 +131,8 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
         locationManager.removeUpdates(this);
         // getting fresh weather data
         if (isAdded()) {
-            gettingFreshWeatherData(location, true, null);
+          //  gettingFreshWeatherData(location, true, null);
         }
-    }
-
-    private void askToChangeCity() {
-        final AlertDialog.Builder alert = new AlertDialog.Builder(this.getActivity());
-        alert.setTitle(getResources().getString(R.string.alert_search_title));
-        alert.setMessage(getResources().getString(R.string.alert_search_message));
-        final EditText input = new EditText(this.getActivity());
-        alert.setView(input);
-        alert.setPositiveButton(getResources().getString(R.string.alert_search_validate), new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int whichButton) {
-                String city = input.getText().toString();
-                gettingFreshWeatherData(null, true, city);
-            }
-        });
-        alert.setNegativeButton(getResources().getString(R.string.alert_search_cancel), new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int whichButton) {
-                dialog.dismiss();
-            }
-        });
-        alert.show();
     }
 
     private void gettingFreshWeatherData(Location location, boolean todayWeather, String city) {

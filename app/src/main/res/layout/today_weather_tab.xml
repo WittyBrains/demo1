@@ -144,6 +144,6 @@
         android:layout_marginLeft="9dp"
         android:layout_marginRight="9dp"
         android:onClick="askToChangeCity"
-        android:text="@string/btn_changecity" />
+        android:text="@string/btn_changescity" />
 
 </RelativeLayout>
