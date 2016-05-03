@@ -22,6 +22,7 @@ public final class R {
         public static final int list_item=0x7f020002;
     }
     public static final class id {
+<<<<<<< HEAD
         public static final int button1=0x7f090000;
         public static final int button2=0x7f090001;
         public static final int changecity=0x7f09000d;
@@ -37,6 +38,21 @@ public final class R {
         public static final int temperature=0x7f090008;
         public static final int time=0x7f09000c;
         public static final int wind=0x7f09000a;
+=======
+        public static final int changecity=0x7f08000b;
+        public static final int city=0x7f080004;
+        public static final int date=0x7f080005;
+        public static final int day=0x7f080001;
+        public static final int days_list=0x7f08000c;
+        public static final int description=0x7f080002;
+        public static final int humidity=0x7f080009;
+        public static final int icon=0x7f080000;
+        public static final int infos=0x7f080003;
+        public static final int relativeLayout1=0x7f080007;
+        public static final int temperature=0x7f080006;
+        public static final int time=0x7f08000a;
+        public static final int wind=0x7f080008;
+>>>>>>> b38a0849a2736d27db985f9401817ec50095b1be
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;

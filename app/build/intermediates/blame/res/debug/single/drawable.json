@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "D:\\Client_Practics\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item.xml",
         "source": "D:\\Client_Practics\\demo1\\app\\src\\main\\res\\drawable\\list_item.xml"
     },
@@ -10,5 +11,9 @@
     {
         "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item.xml",
         "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\drawable\\list_item.xml"
+=======
+        "merged": "F:\\Android Repository\\android\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item.xml",
+        "source": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\drawable\\list_item.xml"
+>>>>>>> b38a0849a2736d27db985f9401817ec50095b1be
     }
 ]
