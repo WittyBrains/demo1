@@ -47,6 +47,8 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
     private TextView time;
     private Button changeCityButton;
     private ImageView icon;
+    private String zipcode;
+    private static Boolean aBoolean=false;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -72,6 +74,7 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
         Time currentTime = new Time();
         currentTime.setToNow();
         time.setText(String.format("%02d:%02d", currentTime.hour, currentTime.minute));
+
         changeCityButton = (Button) getActivity().findViewById(R.id.changecity);
         changeCityButton.setOnClickListener(new OnClickListener() {
 
@@ -79,13 +82,24 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), ChangeCity.class);
                 startActivity(intent);
-
+                aBoolean=true;
             }
         });
-        SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
-        String tempcity = sharedPreferences.getString("editbox", null);
-        gettingFreshWeatherData(null, true, tempcity);
 
+        if(aBoolean == true)
+        {
+            SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
+            zipcode = sharedPreferences.getString("editbox2",null);
+            if(zipcode!=null) {
+                gettingFreshWeatherData(null, true, zipcode);
+            }else
+                Toast.makeText(getActivity(),"Please select zipcode",Toast.LENGTH_LONG).show();
+            SharedPreferences.Editor editor = sharedPreferences.edit();
+            editor.clear();
+            editor.commit();
+        }else{
+            Toast.makeText(getActivity(),"please select city zipcode",Toast.LENGTH_LONG).show();
+        }
     }
 
     @Override
@@ -128,11 +142,11 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
     public void onLocationChanged(Location location) {
         this.location = location;
         Log.v(TAG, location.getLatitude() + " - " + location.getLongitude());
-        locationManager.removeUpdates(this);
+      //  locationManager.removeUpdates(this);
         // getting fresh weather data
-        if (isAdded()) {
-          //  gettingFreshWeatherData(location, true, null);
-        }
+       /* if (isAdded()) {
+            gettingFreshWeatherData(location, true, null);
+        }*/
     }
 
     private void gettingFreshWeatherData(Location location, boolean todayWeather, String city) {

@@ -22,7 +22,7 @@
     <string name="label_humidity_value">0%</string>
     <string name="label_wind">Wind</string>
     <string name="label_wind_value">0.0km/h</string>
-    <string name="btn_changescity">Change City</string>
+    <string name="btn_changeszipcode">Select ZipCode or City</string>
     <string name="image_weather_description">Weather image</string>
     
 </resources>

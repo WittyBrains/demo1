@@ -3,10 +3,13 @@
 
     <PreferenceCategory
         android:key="category1"
-        android:title="Today Weather">
+        android:title="Category one">
 
-        <EditTextPreference android:key="editbox"
+      <!--  <EditTextPreference android:key="editbox"
             android:title="change city"/>
+-->
+        <EditTextPreference android:key="editbox2"
+            android:title="zip code"/>
     </PreferenceCategory>
 
 </PreferenceScreen>

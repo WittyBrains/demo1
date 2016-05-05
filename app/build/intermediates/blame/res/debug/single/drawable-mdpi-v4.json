@@ -1,19 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\Client_Practics\\demo1\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Client_Practics\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Client_Practics\\demo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
-=======
-        "merged": "F:\\Android Repository\\android\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
->>>>>>> b38a0849a2736d27db985f9401817ec50095b1be
     }
 ]

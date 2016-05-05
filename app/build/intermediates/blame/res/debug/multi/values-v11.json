@@ -1,32 +1,5 @@
 [
     {
-        "outputFile": "F:\\Android Repository\\android\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values-v11\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 183,
-                        "endLine": 8,
-                        "endColumn": 12,
-<<<<<<< HEAD
-                        "endOffset": 309
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "D:\\Client_Practics\\demo1\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
@@ -47,35 +20,6 @@
                         "endLine": 8,
                         "endColumn": 12,
                         "endOffset": 317
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values-v11\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 177,
-                        "endLine": 8,
-                        "endColumn": 12,
-                        "endOffset": 309
-=======
-                        "endOffset": 317
->>>>>>> b38a0849a2736d27db985f9401817ec50095b1be
                     }
                 }
             }

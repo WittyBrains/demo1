@@ -42,11 +42,11 @@ public class WeatherWebservice extends AsyncTask<Void, Void, ArrayList<Weather>>
         if (city != null) {
             this.apiUrl = String.format(apiSearchCityFormat.toString(), city);
         } else {
-            this.apiUrl = String.format(
-                    todayWeather ? apiUrlFormat.toString() : apiForecastUrlFormat.toString(),
-                    location.getLatitude(),
-                    location.getLongitude()
-            );
+                this.apiUrl = String.format(
+                        todayWeather ? apiUrlFormat.toString() : apiForecastUrlFormat.toString(),
+                        location.getLatitude(),
+                        location.getLongitude()
+                );
         }
     }
 

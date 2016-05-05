@@ -1,530 +1,5 @@
 [
     {
-        "outputFile": "F:\\Android Repository\\android\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 53,
-                    "endOffset": 104
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 108,
-                        "endColumn": 53,
-                        "endOffset": 157
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 109,
-                    "endColumn": 53,
-                    "endOffset": 158
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 163,
-                        "endColumn": 53,
-                        "endOffset": 212
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 163,
-                    "endColumn": 54,
-                    "endOffset": 213
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 218,
-                        "endColumn": 54,
-                        "endOffset": 268
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 218,
-                    "endColumn": 52,
-                    "endOffset": 266
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 1,
-                        "startOffset": 54,
-                        "endColumn": 49,
-                        "endOffset": 102
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 271,
-                    "endColumn": 54,
-                    "endOffset": 321
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 594,
-                        "endColumn": 54,
-                        "endOffset": 644
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 326,
-                    "endColumn": 84,
-                    "endOffset": 406
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 454,
-                        "endColumn": 84,
-                        "endOffset": 534
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 411,
-                    "endColumn": 53,
-                    "endOffset": 460
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 399,
-                        "endColumn": 53,
-                        "endOffset": 448
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 465,
-                    "endColumn": 52,
-                    "endOffset": 513
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 540,
-                        "endColumn": 52,
-                        "endOffset": 588
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 518,
-                    "endColumn": 53,
-                    "endOffset": 567
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 81,
-                        "endColumn": 53,
-                        "endOffset": 130
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 572,
-                    "endColumn": 54,
-                    "endOffset": 622
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1087,
-                        "endColumn": 54,
-                        "endOffset": 1137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 627,
-                    "endColumn": 63,
-                    "endOffset": 686
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 277,
-                        "endColumn": 63,
-                        "endOffset": 336
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 691,
-                    "endColumn": 67,
-                    "endOffset": 754
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1143,
-                        "endColumn": 67,
-                        "endOffset": 1206
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 759,
-                    "endColumn": 43,
-                    "endOffset": 798
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 792,
-                        "endColumn": 43,
-                        "endOffset": 831
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 803,
-                    "endColumn": 43,
-                    "endOffset": 842
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 837,
-                        "endColumn": 43,
-                        "endOffset": 876
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 847,
-                    "endColumn": 51,
-                    "endOffset": 894
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 882,
-                        "endColumn": 51,
-                        "endOffset": 929
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 899,
-                    "endColumn": 51,
-                    "endOffset": 946
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 935,
-                        "endColumn": 51,
-                        "endOffset": 982
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 951,
-                    "endColumn": 57,
-                    "endOffset": 1004
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 733,
-                        "endColumn": 57,
-                        "endOffset": 786
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1009,
-                    "endColumn": 43,
-                    "endOffset": 1048
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 988,
-                        "endColumn": 43,
-                        "endOffset": 1027
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1053,
-                    "endColumn": 52,
-                    "endOffset": 1101
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1033,
-                        "endColumn": 52,
-                        "endOffset": 1081
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 51,
-                    "endOffset": 1153
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 136,
-                        "endColumn": 51,
-                        "endOffset": 183
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1158,
-                    "endColumn": 55,
-                    "endOffset": 1209
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 342,
-                        "endColumn": 55,
-                        "endOffset": 393
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1214,
-                    "endColumn": 46,
-                    "endOffset": 1256
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 650,
-                        "endColumn": 46,
-                        "endOffset": 692
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1261,
-                    "endColumn": 43,
-                    "endOffset": 1300
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 43,
-                        "endOffset": 228
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1305,
-                    "endColumn": 41,
-                    "endOffset": 1342
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 234,
-                        "endColumn": 41,
-                        "endOffset": 271
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1347,
-                    "endLine": 32,
-                    "endColumn": 12,
-                    "endOffset": 1633
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 192,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 484
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 1638,
-                    "endLine": 35,
-                    "endColumn": 12,
-                    "endOffset": 1793
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 525,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 682
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 1798,
-                    "endLine": 38,
-                    "endColumn": 12,
-                    "endOffset": 1939
-                },
-                "from": {
-                    "file": "F:\\Android Repository\\android\\demo1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endLine": 21,
-                        "endColumn": 12,
-<<<<<<< HEAD
-                        "endOffset": 812
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "D:\\Client_Practics\\demo1\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
@@ -640,8 +115,8 @@
                     "startLine": 11,
                     "startColumn": 4,
                     "startOffset": 572,
-                    "endColumn": 55,
-                    "endOffset": 623
+                    "endColumn": 69,
+                    "endOffset": 637
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml",
@@ -649,8 +124,8 @@
                         "startLine": 24,
                         "startColumn": 4,
                         "startOffset": 1087,
-                        "endColumn": 55,
-                        "endOffset": 1138
+                        "endColumn": 69,
+                        "endOffset": 1152
                     }
                 }
             },
@@ -658,9 +133,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 628,
+                    "startOffset": 642,
                     "endColumn": 63,
-                    "endOffset": 687
+                    "endOffset": 701
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -670,9 +145,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 692,
+                    "startOffset": 706,
                     "endColumn": 67,
-                    "endOffset": 755
+                    "endOffset": 769
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -682,9 +157,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 760,
+                    "startOffset": 774,
                     "endColumn": 43,
-                    "endOffset": 799
+                    "endOffset": 813
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -694,9 +169,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 804,
+                    "startOffset": 818,
                     "endColumn": 43,
-                    "endOffset": 843
+                    "endOffset": 857
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -706,9 +181,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 848,
+                    "startOffset": 862,
                     "endColumn": 51,
-                    "endOffset": 895
+                    "endOffset": 909
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -718,9 +193,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 900,
+                    "startOffset": 914,
                     "endColumn": 51,
-                    "endOffset": 947
+                    "endOffset": 961
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -730,9 +205,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 952,
+                    "startOffset": 966,
                     "endColumn": 57,
-                    "endOffset": 1005
+                    "endOffset": 1019
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -742,9 +217,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1010,
+                    "startOffset": 1024,
                     "endColumn": 43,
-                    "endOffset": 1049
+                    "endOffset": 1063
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -754,9 +229,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1054,
+                    "startOffset": 1068,
                     "endColumn": 52,
-                    "endOffset": 1102
+                    "endOffset": 1116
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -766,9 +241,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1107,
+                    "startOffset": 1121,
                     "endColumn": 51,
-                    "endOffset": 1154
+                    "endOffset": 1168
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -778,9 +253,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1159,
+                    "startOffset": 1173,
                     "endColumn": 55,
-                    "endOffset": 1210
+                    "endOffset": 1224
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -790,9 +265,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1215,
+                    "startOffset": 1229,
                     "endColumn": 46,
-                    "endOffset": 1257
+                    "endOffset": 1271
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -802,9 +277,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1262,
+                    "startOffset": 1276,
                     "endColumn": 43,
-                    "endOffset": 1301
+                    "endOffset": 1315
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -814,9 +289,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1306,
+                    "startOffset": 1320,
                     "endColumn": 41,
-                    "endOffset": 1343
+                    "endOffset": 1357
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\strings.xml"
@@ -826,10 +301,10 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1348,
+                    "startOffset": 1362,
                     "endLine": 32,
                     "endColumn": 12,
-                    "endOffset": 1634
+                    "endOffset": 1648
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\styles.xml"
@@ -839,10 +314,10 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 1639,
+                    "startOffset": 1653,
                     "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 1794
+                    "endOffset": 1808
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\styles.xml"
@@ -852,540 +327,13 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1799,
+                    "startOffset": 1813,
                     "endLine": 38,
                     "endColumn": 12,
-                    "endOffset": 1940
+                    "endOffset": 1954
                 },
                 "from": {
                     "file": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\values\\styles.xml"
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 53,
-                    "endOffset": 104
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endColumn": 53,
-                        "endOffset": 154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 109,
-                    "endColumn": 53,
-                    "endOffset": 158
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 159,
-                        "endColumn": 53,
-                        "endOffset": 208
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 163,
-                    "endColumn": 54,
-                    "endOffset": 213
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 213,
-                        "endColumn": 54,
-                        "endOffset": 263
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 218,
-                    "endColumn": 52,
-                    "endOffset": 266
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 1,
-                        "startOffset": 52,
-                        "endColumn": 49,
-                        "endOffset": 100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 271,
-                    "endColumn": 54,
-                    "endOffset": 321
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 581,
-                        "endColumn": 54,
-                        "endOffset": 631
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 326,
-                    "endColumn": 84,
-                    "endOffset": 406
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 443,
-                        "endColumn": 84,
-                        "endOffset": 523
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 411,
-                    "endColumn": 53,
-                    "endOffset": 460
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 389,
-                        "endColumn": 53,
-                        "endOffset": 438
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 465,
-                    "endColumn": 52,
-                    "endOffset": 513
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 528,
-                        "endColumn": 52,
-                        "endOffset": 576
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 518,
-                    "endColumn": 53,
-                    "endOffset": 567
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 77,
-                        "endColumn": 53,
-                        "endOffset": 126
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 572,
-                    "endColumn": 54,
-                    "endOffset": 622
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1063,
-                        "endColumn": 54,
-                        "endOffset": 1113
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 627,
-                    "endColumn": 63,
-                    "endOffset": 686
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 269,
-                        "endColumn": 63,
-                        "endOffset": 328
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 691,
-                    "endColumn": 67,
-                    "endOffset": 754
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1118,
-                        "endColumn": 67,
-                        "endOffset": 1181
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 759,
-                    "endColumn": 43,
-                    "endOffset": 798
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 774,
-                        "endColumn": 43,
-                        "endOffset": 813
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 803,
-                    "endColumn": 43,
-                    "endOffset": 842
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 818,
-                        "endColumn": 43,
-                        "endOffset": 857
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 847,
-                    "endColumn": 51,
-                    "endOffset": 894
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 862,
-                        "endColumn": 51,
-                        "endOffset": 909
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 899,
-                    "endColumn": 51,
-                    "endOffset": 946
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 914,
-                        "endColumn": 51,
-                        "endOffset": 961
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 951,
-                    "endColumn": 57,
-                    "endOffset": 1004
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 716,
-                        "endColumn": 57,
-                        "endOffset": 769
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1009,
-                    "endColumn": 43,
-                    "endOffset": 1048
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 966,
-                        "endColumn": 43,
-                        "endOffset": 1005
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1053,
-                    "endColumn": 52,
-                    "endOffset": 1101
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1010,
-                        "endColumn": 52,
-                        "endOffset": 1058
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 51,
-                    "endOffset": 1153
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 131,
-                        "endColumn": 51,
-                        "endOffset": 178
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1158,
-                    "endColumn": 55,
-                    "endOffset": 1209
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 333,
-                        "endColumn": 55,
-                        "endOffset": 384
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1214,
-                    "endColumn": 46,
-                    "endOffset": 1256
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 636,
-                        "endColumn": 46,
-                        "endOffset": 678
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1261,
-                    "endColumn": 43,
-                    "endOffset": 1300
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 183,
-                        "endColumn": 43,
-                        "endOffset": 222
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1305,
-                    "endColumn": 41,
-                    "endOffset": 1342
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 227,
-                        "endColumn": 41,
-                        "endOffset": 264
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1347,
-                    "endLine": 32,
-                    "endColumn": 12,
-                    "endOffset": 1633
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 186,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 472
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 1638,
-                    "endLine": 35,
-                    "endColumn": 12,
-                    "endOffset": 1793
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 510,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 665
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 1798,
-                    "endLine": 38,
-                    "endColumn": 12,
-                    "endOffset": 1939
-                },
-                "from": {
-                    "file": "D:\\Client_Practics\\Weather-Forecast-Application1\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 671,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 812
-=======
-                        "endOffset": 833
->>>>>>> b38a0849a2736d27db985f9401817ec50095b1be
-                    }
                 }
             }
         ]
