@@ -24,5 +24,15 @@
     <string name="label_wind_value">0.0km/h</string>
     <string name="btn_changeszipcode">Select ZipCode or City</string>
     <string name="image_weather_description">Weather image</string>
+
+    <string-array name="stringArray">
+    <item>Celsius</item>
+    <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="valueArray">
+    <item>celsius</item>
+    <item>fahrenheit</item>
+    </string-array>
     
 </resources>

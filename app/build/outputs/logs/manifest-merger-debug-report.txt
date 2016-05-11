@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml
@@ -38,7 +38,7 @@ ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:13:5-
 	android:name
 		ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:13:22-76
 application
-ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:15:5-30:19
+ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:15:5-31:19
 	android:label
 		ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:18:9-41
 	android:allowBackup
@@ -67,3 +67,7 @@ activity#com.example.weatherforecast.activities.ChangeCity
 ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:29:9-85
 	android:name
 		ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:29:19-83
+activity#com.example.weatherforecast.activities.WeatherDetail
+ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:30:9-88
+	android:name
+		ADDED from D:\Client_Practics\demo1\demo1\app\src\main\AndroidManifest.xml:30:19-86

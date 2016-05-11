@@ -13,7 +13,9 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.preference.Preference;
 import android.preference.PreferenceManager;
+import android.preference.PreferenceScreen;
 import android.text.format.Time;
 import android.util.Log;
 import android.view.View;
@@ -47,7 +49,8 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
     private TextView time;
     private Button changeCityButton;
     private ImageView icon;
-    private String zipcode;
+    public static String zipcode;
+    private String choice;
     private static Boolean aBoolean=false;
 
     @Override
@@ -89,16 +92,20 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
         if(aBoolean == true)
         {
             SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getActivity());
-            zipcode = sharedPreferences.getString("editbox2",null);
+
+            zipcode = sharedPreferences.getString("editbox2", null);
+            choice = sharedPreferences.getString("list","None Selected");
             if(zipcode!=null) {
                 gettingFreshWeatherData(null, true, zipcode);
             }else
                 Toast.makeText(getActivity(),"Please select zipcode",Toast.LENGTH_LONG).show();
+
             SharedPreferences.Editor editor = sharedPreferences.edit();
             editor.clear();
             editor.commit();
         }else{
-            Toast.makeText(getActivity(),"please select city zipcode",Toast.LENGTH_LONG).show();
+            if(zipcode == null)
+            Toast.makeText(getActivity(),"please select zipcode of city",Toast.LENGTH_LONG).show();
         }
     }
 
@@ -127,7 +134,12 @@ public class TodayWeather extends Fragment implements TabListener, LocationListe
 
     public void updateUI(Weather weather) {
         city.setText(weather.place);
-        temperature.setText(String.format("%.1f�C", weather.temperature));
+        if(choice.equalsIgnoreCase("fahrenheit")) {
+            double fahren = weather.temperature * 1.8000 + 32.00;
+            temperature.setText(String.format("%.1f�F", fahren));
+        }else {
+            temperature.setText(String.format("%.1f�C", weather.temperature));
+        }
         wind.setText(weather.windSpeed + " km/h");
         humidity.setText(weather.humidity + "%");
         date.setText(new SimpleDateFormat("EEEE dd/MM", Locale.getDefault()).format(weather.day));

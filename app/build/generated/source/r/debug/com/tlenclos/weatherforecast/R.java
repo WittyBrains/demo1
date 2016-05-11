@@ -8,13 +8,17 @@
 package com.tlenclos.weatherforecast;
 
 public final class R {
+    public static final class array {
+        public static final int stringArray=0x7f060000;
+        public static final int valueArray=0x7f060001;
+    }
     public static final class attr {
     }
     public static final class color {
-        public static final int list_row_default_bg=0x7f060000;
-        public static final int list_row_pressed_bg=0x7f060001;
-        public static final int list_row_selected_bg=0x7f060002;
-        public static final int translucent_blue=0x7f060003;
+        public static final int list_row_default_bg=0x7f070000;
+        public static final int list_row_pressed_bg=0x7f070001;
+        public static final int list_row_selected_bg=0x7f070002;
+        public static final int translucent_blue=0x7f070003;
     }
     public static final class drawable {
         public static final int background=0x7f020000;
@@ -22,52 +26,54 @@ public final class R {
         public static final int list_item=0x7f020002;
     }
     public static final class id {
-        public static final int button1=0x7f090000;
-        public static final int button2=0x7f090001;
-        public static final int changecity=0x7f09000d;
-        public static final int city=0x7f090006;
-        public static final int date=0x7f090007;
-        public static final int day=0x7f090003;
-        public static final int days_list=0x7f09000e;
-        public static final int description=0x7f090004;
-        public static final int humidity=0x7f09000b;
-        public static final int icon=0x7f090002;
-        public static final int infos=0x7f090005;
-        public static final int relativeLayout1=0x7f090009;
-        public static final int temperature=0x7f090008;
-        public static final int time=0x7f09000c;
-        public static final int wind=0x7f09000a;
+        public static final int button1=0x7f0a0000;
+        public static final int button2=0x7f0a0001;
+        public static final int changecity=0x7f0a000d;
+        public static final int city=0x7f0a0006;
+        public static final int date=0x7f0a0007;
+        public static final int day=0x7f0a0003;
+        public static final int days_list=0x7f0a000f;
+        public static final int description=0x7f0a0004;
+        public static final int detail_tv=0x7f0a000e;
+        public static final int humidity=0x7f0a000b;
+        public static final int icon=0x7f0a0002;
+        public static final int infos=0x7f0a0005;
+        public static final int relativeLayout1=0x7f0a0009;
+        public static final int temperature=0x7f0a0008;
+        public static final int time=0x7f0a000c;
+        public static final int wind=0x7f0a000a;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int list_row_day=0x7f030001;
         public static final int today_weather_tab=0x7f030002;
-        public static final int week_weather_tab=0x7f030003;
+        public static final int weather_detail=0x7f030003;
+        public static final int week_weather_tab=0x7f030004;
     }
     public static final class menu {
-        public static final int activity_main=0x7f080000;
+        public static final int activity_main=0x7f090000;
     }
     public static final class string {
-        public static final int alert_search_cancel=0x7f070000;
-        public static final int alert_search_message=0x7f070001;
-        public static final int alert_search_title=0x7f070002;
-        public static final int alert_search_validate=0x7f070003;
-        public static final int app_name=0x7f070004;
-        public static final int btn_changeszipcode=0x7f070005;
-        public static final int fetching_data=0x7f070006;
-        public static final int image_weather_description=0x7f070007;
-        public static final int label_city=0x7f070008;
-        public static final int label_date=0x7f070009;
-        public static final int label_humidity=0x7f07000a;
-        public static final int label_humidity_value=0x7f07000b;
-        public static final int label_temperature=0x7f07000c;
-        public static final int label_wind=0x7f07000d;
-        public static final int label_wind_value=0x7f07000e;
-        public static final int log_tag=0x7f07000f;
-        public static final int network_error=0x7f070010;
-        public static final int no_location=0x7f070011;
-        public static final int tab_today=0x7f070012;
-        public static final int tab_week=0x7f070013;
+        public static final int alert_search_cancel=0x7f080000;
+        public static final int alert_search_message=0x7f080001;
+        public static final int alert_search_title=0x7f080002;
+        public static final int alert_search_validate=0x7f080003;
+        public static final int app_name=0x7f080004;
+        public static final int btn_changeszipcode=0x7f080005;
+        public static final int fetching_data=0x7f080006;
+        public static final int image_weather_description=0x7f080007;
+        public static final int label_city=0x7f080008;
+        public static final int label_date=0x7f080009;
+        public static final int label_humidity=0x7f08000a;
+        public static final int label_humidity_value=0x7f08000b;
+        public static final int label_temperature=0x7f08000c;
+        public static final int label_wind=0x7f08000d;
+        public static final int label_wind_value=0x7f08000e;
+        public static final int log_tag=0x7f08000f;
+        public static final int network_error=0x7f080010;
+        public static final int no_location=0x7f080011;
+        public static final int tab_today=0x7f080012;
+        public static final int tab_week=0x7f080013;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

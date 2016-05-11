@@ -12,4 +12,17 @@
             android:title="zip code"/>
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:key="category2"
+        android:title="Temperature">
+
+        <ListPreference android:defaultValue="item"
+            android:entries="@array/stringArray"
+            android:entryValues="@array/valueArray"
+            android:key="list"
+            android:title="Select temperature unit ">
+            </ListPreference>
+
+    </PreferenceCategory>
+
 </PreferenceScreen>

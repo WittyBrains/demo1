@@ -4,6 +4,10 @@
         "source": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\layout\\week_weather_tab.xml"
     },
     {
+        "merged": "D:\\Client_Practics\\demo1\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_detail.xml",
+        "source": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\layout\\weather_detail.xml"
+    },
+    {
         "merged": "D:\\Client_Practics\\demo1\\demo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\Client_Practics\\demo1\\demo1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },

@@ -3,7 +3,10 @@ package com.example.weatherforecast.activities;
 import android.app.ActionBar;
 import android.content.Intent;
 import android.os.Bundle;
+import android.preference.ListPreference;
+import android.preference.Preference;
 import android.preference.PreferenceActivity;
+import android.preference.PreferenceScreen;
 import android.view.MenuItem;
 
 import com.tlenclos.weatherforecast.R;
@@ -19,8 +22,20 @@ public class ChangeCity extends PreferenceActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         addPreferencesFromResource(R.xml.prefs);
+
         ActionBar actionBar = getActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+
+    /*    Preference checkboxPreference1 = findPreference("checkbox1");
+        Preference checkboxPreference2 = findPreference("checkbox2");
+        
+        PreferenceScreen preferenceScreen = getPreferenceScreen();
+        preferenceScreen.removePreference(checkboxPreference1);
+        preferenceScreen.removePreference(checkboxPreference2);*/
+
+       /* PreferenceScreen preferenceScreen = getPreferenceScreen();
+
+        preferenceScreen.removePreference((ListPreference) findPreference("list"));*/
     }
 
     @Override
